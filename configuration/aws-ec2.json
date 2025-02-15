@@ -1,0 +1,8 @@
+{
+	"environment": "AWS EC2 t2.medium",
+	"operating systems": "Amazon Linux 2",
+	"CPU": "Intel Xeon Processor (2 vCPUs)",
+	"RAM": "4GB",
+	"GPU": "Not available",
+	"Python Ver": "3.12.0"
+}

@@ -1,0 +1,10 @@
+blake3
+fastapi
+uvicorn
+pydantic
+psutil
+scipy
+prettytable
+matplotlib
+pandas
+requests

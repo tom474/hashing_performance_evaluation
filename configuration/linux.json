@@ -1,0 +1,10 @@
+{
+	"environment": "Acer aspire 7 Gaming",
+	"operating systems": "EndeavourOS x86_64",
+	"Kernel": "Linux 6.12.8-arch1-1",
+	"CPU": "12th Gen Intel(R) Core(TM) i5-12450H (12) @ 4.40 GHz",
+	"RAM": "16GB",
+	"GPU[Discrete]": "NVIDIA GeForce RTX 3050 Mobile",
+	"GPU[Integrated]": "Intel UHD Graphics @ 1.20 GHz",
+	"Python Ver": "3.13.1"
+}
